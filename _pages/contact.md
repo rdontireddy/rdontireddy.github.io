@@ -1,0 +1,5 @@
+---
+permalink: /contact/
+---
+
+# My Contact
